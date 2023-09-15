@@ -10,7 +10,7 @@ This solution features a component that acts as a two-level navigation menu, usi
 
 ![image](https://github.com/CraigWhite81/nested-menu-nav/assets/85926954/1df56e91-6174-48e6-afc8-c2332df65b71)
 
-This technique could be extended with further levels. The key is how to structure the data that feeds the menu, using key atttributes to drive functionality and formatting.
+This technique could be extended with further levels. The key is how to structure the data that feeds the menu, using key attributes to drive functionality and formatting.
 
 ## Installation
 Download the NestedNavigationMenu_1_0_0_2.zip file, then follow <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/import-update-export-solutions">this Microsoft Learn Article</a> to import the solution into your chosen environment.
